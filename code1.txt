@@ -5,6 +5,6 @@ my name is jiyul
 안녕 우석
 HEAD
 20240524 수정중
-
 20240524  싫어요
 test
+rebase
